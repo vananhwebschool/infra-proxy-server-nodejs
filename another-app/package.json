@@ -1,0 +1,15 @@
+{
+  "name": "node-js-app-infra",
+  "version": "1.0.0",
+  "description": "Nodejs backend server",
+  "author": "Van Anh TA <v_ta@etu-webschoolfactory.fr>",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
